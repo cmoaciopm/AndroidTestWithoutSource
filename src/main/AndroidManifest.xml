@@ -4,7 +4,7 @@
 
     <instrumentation
         android:name="android.support.test.runner.AndroidJUnitRunner"
-        android:targetPackage="com.example.android.apis"/>
+        android:targetPackage="aws.apps.keyeventdisplay"/>
 
     <application>
         <uses-library android:name="android.test.runner"/>
